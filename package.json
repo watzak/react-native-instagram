@@ -1,8 +1,30 @@
 {
-  "name":"RNInstagram",
-  "version":"0.0.1",
+  "name": "react-native-instagram",
+  "version": "0.0.1",
   "dependencies": {
     "react-native-instagram-oauth": "^0.0.5",
     "react-native-instagram-share": "^0.0.8"
-  }
+  },
+  "description": "react-native instagram wrapper api (iOS)",
+  "main": "src/RNInstagram.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watzak/react-native-instagram.git"
+  },
+  "keywords": [
+    "react-native",
+    "instagram",
+    "api",
+    "wrapper"
+  ],
+  "author": "Klaus Zahiragic <klaus.zahiragic@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/watzak/react-native-instagram/issues"
+  },
+  "homepage": "https://github.com/watzak/react-native-instagram#readme"
 }
