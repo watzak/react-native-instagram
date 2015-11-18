@@ -1,0 +1,8 @@
+{
+  "name":"RNInstagram",
+  "version":"0.0.1",
+  "dependencies": {
+    "react-native-instagram-oauth": "^0.0.5",
+    "react-native-instagram-share": "^0.0.8"
+  }
+}
